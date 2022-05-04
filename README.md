@@ -1,7 +1,7 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 <div align="center">
-<a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
+<a href="https://wallpapercave.com/dwp1x/wp7840575.jpg"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
 
 # **Chitoge : A WhatsApp BOT WITH RICH ANIME FEATURES**
 
@@ -11,7 +11,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/Jibbs16/Chitoge)
 
 
 </div><br/>
