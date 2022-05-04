@@ -11,7 +11,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/Jibbs16/Chitoge)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://https://heroku.com/deplohttps://heroku.com/deploy?template-https://github.com/Jibbs16/Chitoge)
 
 
 </div><br/>
